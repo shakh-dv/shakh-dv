@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I`m Shakhriyor👋
 
 <!--
 **shakh-dv/shakh-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
